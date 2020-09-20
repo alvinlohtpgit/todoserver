@@ -19,17 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b17818-7717-46af-8d4a-987098385381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todoserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mongo.helper.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todo.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    <list default="true" id="20b17818-7717-46af-8d4a-987098385381" name="Default Changelist" comment="Going to add mongoose">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +74,16 @@
       <workItem from="1600507236882" duration="2662000" />
       <workItem from="1600521524079" duration="588000" />
       <workItem from="1600610770160" duration="66000" />
-      <workItem from="1600611412354" duration="3113000" />
+      <workItem from="1600611412354" duration="3567000" />
     </task>
+    <task id="LOCAL-00001" summary="Going to add mongoose">
+      <created>1600618083840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600618083840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Going to add mongoose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Going to add mongoose" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1252" height="253" key="GridCell.Tab.0.bottom" timestamp="1600521729207">
@@ -122,5 +123,9 @@
       <screen x="0" y="23" width="1680" height="985" />
     </state>
     <state width="1252" height="253" key="GridCell.Tab.0.right/0.23.1680.985@0.23.1680.985" timestamp="1600521729207" />
+    <state x="876" y="261" key="Vcs.Push.Dialog.v2" timestamp="1600618099474">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state x="876" y="261" key="Vcs.Push.Dialog.v2/0.23.1680.985@0.23.1680.985" timestamp="1600618099474" />
   </component>
 </project>
